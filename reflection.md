@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabrielle Russo
+Sudent Email:  grusso01@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I got to practives what I learned regarding how to clean and manipulate survey data using pandas, and how to merge multiple datasets for analysis. I also applied a cost of living adjustment to salary data, which was interesting and taught me a lot, but was tricky to do correctly.
+
+I struggled with merging datasets. This happened especially when columns like City were missing or had inconsistent names. This reiterated the importance of making sure of data consistency before merging. I also had difficulty with uploading files to Minio using boto3, particularly with the configuration and authentication process.
